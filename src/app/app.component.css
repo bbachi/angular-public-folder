@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: blueviolet;
+  color: white;
+  text-align: center;
+}
+
+.margintop {
+  margin-top: 10%;
+}
+
+.mrgnbtm {
+  background-color: gray;
+  width: 90%;
+  padding: 3%;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
